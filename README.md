@@ -2,7 +2,7 @@
 
 Un clone de Gemini, conçu pour offrir une expérience utilisateur fluide et performante. Ce projet est une réplique simplifiée de l'interface et des fonctionnalités de Gemini, utilisant des technologies modernes.
 
-##🚀 Fonctionnalités:
+🚀 Fonctionnalités:
 
 🔹 Interface utilisateur réactive et moderne
 
@@ -13,11 +13,11 @@ Un clone de Gemini, conçu pour offrir une expérience utilisateur fluide et per
 🔹 Expérience fluide grâce à React + Vite
 
 
-##🛠️ Technologies utilisées:
+🛠️ Technologies utilisées:
 
 🔹Frontend : React + Vite
 
 🔹API : Google Gemini
 
-##🤝 Contribution
+🤝 Contribution
 Les contributions sont les bienvenues ! Si tu souhaites proposer des améliorations, crée une issue ou envoie une Pull Request.
