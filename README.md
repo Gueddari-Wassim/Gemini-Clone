@@ -1,12 +1,22 @@
-# React + Vite
+# 🌟 Gemini Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Un clone de Gemini, conçu pour offrir une expérience utilisateur fluide et performante. Ce projet est une réplique simplifiée de l'interface et des fonctionnalités de Gemini, utilisant des technologies modernes.
 
-Currently, two official plugins are available:
+#🚀 Fonctionnalités
+🔹 Interface utilisateur réactive et moderne
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔹 Intégration de l'API Google Gemini
 
-## Expanding the ESLint configuration
+🔹 Gestion des requêtes et affichage des réponses en temps réel
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔹 Expérience fluide grâce à React + Vite
+
+
+#🛠️ Technologies utilisées:
+
+🔹Frontend : React + Vite
+
+🔹API : Google Gemini
+
+#🤝 Contribution
+Les contributions sont les bienvenues ! Si tu souhaites proposer des améliorations, crée une issue ou envoie une Pull Request.
